@@ -39,7 +39,7 @@
     "recordrtc": ">=5.2.9"
   },
   "devDependencies": {
-    "blueimp-file-upload": ">=9.11.2",
+    "blueimp-file-upload": ">=9.13.1",
     "fine-uploader": ">=5.4.1",
     "grunt": ">=0.4.5",
     "grunt-contrib-concat": ">=0.4.0",
