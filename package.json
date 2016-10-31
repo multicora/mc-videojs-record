@@ -54,7 +54,7 @@
     "grunt-videojs-languages": ">=0.0.4",
     "lamejs": ">=1.0.0",
     "libvorbis.js": ">=1.1.1",
-    "lodash": "^4.16.2",
+    "lodash": "^4.16.5",
     "material-design-icons": "^3.0.1",
     "opus-recorder": ">=0.4.4",
     "recorderjs": "https://github.com/mattdiamond/Recorderjs.git",
