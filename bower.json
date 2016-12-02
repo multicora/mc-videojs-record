@@ -1,7 +1,7 @@
 {
-  "name": "mk-videojs-record",
+  "name": "mc-videojs-record",
   "version": "1.5.1",
-  "homepage": "https://github.com/multicora/mk-videojs-record",
+  "homepage": "https://github.com/multicora/mc-videojs-record",
   "description": "A video.js plugin for recording audio/video/image files.",
   "main": "src/js/videojs.record.js",
   "keywords": [
