@@ -824,9 +824,10 @@
                                   this.player().controlBar.durationDisplay];
                 for (element in uiElements)
                 {
-                    if (!uiElements.hasOwnProperty(element)) return;
-                    uiElements[element].el().style.display = 'block';
-                    uiElements[element].show();
+                    if ( uiElements.hasOwnProperty(element) ) {
+                        uiElements[element].el().style.display = 'block';
+                        uiElements[element].show();
+                    }
                 }
 
                 // show record button
